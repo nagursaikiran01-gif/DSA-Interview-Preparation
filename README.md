@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0704-binary-search](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0704-binary-search) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
