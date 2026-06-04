@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0704-binary-search](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -46,4 +48,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
+| [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
