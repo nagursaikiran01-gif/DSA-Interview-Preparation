@@ -22,3 +22,5 @@ class Solution {
         return res;
     }
 }
+
+//19mins
