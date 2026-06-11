@@ -20,3 +20,5 @@ class Solution {
         return prev;
     }
 }
+
+//2.48min
