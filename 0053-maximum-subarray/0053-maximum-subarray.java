@@ -17,3 +17,5 @@ class Solution {
     }
 }
 
+//7.33mins
+//O(n)
