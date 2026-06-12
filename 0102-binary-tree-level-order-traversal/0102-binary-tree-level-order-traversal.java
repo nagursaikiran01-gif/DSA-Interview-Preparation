@@ -40,3 +40,7 @@ class Solution {
         return res;
     }
 }
+
+//17.42min
+//O(N)-Time
+//O(N)-space
