@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0704-binary-search) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
