@@ -155,8 +155,8 @@ class LRUCache {
 }
 
 
-//O(n)-time
-//O(n)-space
+//O(1)-time
+//O(1)-space
 
 
 /**
