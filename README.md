@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0056-merge-intervals) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0322-coin-change) |
@@ -160,5 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
