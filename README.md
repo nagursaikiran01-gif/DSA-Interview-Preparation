@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0704-binary-search) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
