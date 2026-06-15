@@ -17,3 +17,7 @@ class Solution {
         return res;
     }
 }
+
+//15mins
+//O(n)-time
+//O(1)-time
