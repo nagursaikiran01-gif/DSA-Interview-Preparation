@@ -23,3 +23,7 @@ class Solution {
         return Math.max(left,right);
     }
 }
+
+//3.23min
+//O(n)-time
+//O(h)-space
