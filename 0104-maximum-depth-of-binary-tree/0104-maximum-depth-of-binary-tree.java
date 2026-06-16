@@ -24,6 +24,6 @@ class Solution {
     }
 }
 
-//3.23min
+//5.23min
 //O(n)-time
 //O(h)-space
