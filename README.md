@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
