@@ -29,3 +29,7 @@ class Solution {
         return isValidBST(root.right);
     }
 }
+
+//30min
+//O(n)-time;
+//O(h)-space
