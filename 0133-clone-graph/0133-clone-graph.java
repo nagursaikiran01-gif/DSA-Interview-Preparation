@@ -27,7 +27,7 @@ class Solution {
         if(m1.containsKey(node)){
             return m1.get(node);
         }
-        Node n1=new Node(node.val,new ArrayList<>());
+        Node n1=new Node(node.val);
         m1.put(node,n1);
         for(Node k:node.neighbors){
             n1.neighbors.add(cloneGraph(k));
