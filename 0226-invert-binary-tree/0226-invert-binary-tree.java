@@ -26,3 +26,7 @@ class Solution {
         return root;
     }
 }
+
+//7min
+//O(n)-time
+//O(h)-space
