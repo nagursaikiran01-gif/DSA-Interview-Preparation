@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
