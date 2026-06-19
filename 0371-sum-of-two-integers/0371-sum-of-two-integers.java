@@ -8,3 +8,7 @@ class Solution {
         return a;
     }
 }
+
+//35min
+//O(n)=>nbits-time
+//O(1)-space
