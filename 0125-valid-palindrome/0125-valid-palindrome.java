@@ -16,3 +16,7 @@ class Solution {
         return true;
     }
 }
+
+//15min
+//O(n^2)-time
+//O(1)-space
