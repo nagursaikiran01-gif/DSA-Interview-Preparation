@@ -22,3 +22,7 @@ class Solution {
         return res;
     }
 }
+
+//O(n*n!)-time
+//O(n)-space-axi
+//O(n*n!)-space
