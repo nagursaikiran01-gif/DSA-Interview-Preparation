@@ -12,7 +12,7 @@ class Solution {
                 l.add(nums[i]);
                 s.add(nums[i]);
                 p(nums,i,n,l,s);
-                l.remove(s1);
+                l.remove(l.size() - 1);
                 s.remove(nums[i]);
             }
         }
