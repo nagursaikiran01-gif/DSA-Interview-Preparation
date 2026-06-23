@@ -25,3 +25,6 @@ class Solution {
         return res;
     }
 }
+
+//O(n^2)-time
+//O(n)-space
