@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
