@@ -2,17 +2,19 @@ class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
 
-    for(String s : strs){
+        for(String s : strs){
 
-        char[] arr = s.toCharArray();
-        Arrays.sort(arr);
+            char[] arr = s.toCharArray();
+            Arrays.sort(arr);
 
-        String key = new String(arr);
+            String key = new String(arr);
 
-        map.putIfAbsent(key, new ArrayList<>());
-        map.get(key).add(s);
-    }
-
+            map.putIfAbsent(key, new ArrayList<>());
+            map.get(key).add(s);
+        }
     return new ArrayList<>(map.values());
     }
 }
+
+//O(n*klogk)-time
+//O(n*k)-space
