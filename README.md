@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
