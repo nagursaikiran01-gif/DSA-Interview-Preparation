@@ -15,3 +15,6 @@ class Solution {
         return n+1; 
     }
 }
+
+//O(n)-time
+//O(n)-space
