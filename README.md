@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0133-clone-graph) |
