@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
