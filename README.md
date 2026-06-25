@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
