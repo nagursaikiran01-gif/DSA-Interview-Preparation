@@ -17,8 +17,29 @@ class Solution {
             }
         }
     }
+    public void per(int nums[],int pos,int n){
+        if(pos==n){
+            List<Integer> l1=new ArrayList<>();
+            for(int i:nums){
+                l1.add(i);
+            }
+            res.add(l1);
+            return;
+        }
+        for(int i=pos;i<n;i++){
+            int temp=nums[pos];
+            nums[pos]=nums[i];
+            nums[i]=temp;
+            per(nums,pos+1,n);
+            temp=nums[pos];
+            nums[pos]=nums[i];
+            nums[i]=temp;
+        }
+    }
     public List<List<Integer>> permute(int[] nums) {
-        p(nums,0,nums.length,new ArrayList<>(),new HashSet<>());
+        //p(nums,0,nums.length,new ArrayList<>(),new HashSet<>());
+        //return res;
+        per(nums,0,nums.length);
         return res;
     }
 }
