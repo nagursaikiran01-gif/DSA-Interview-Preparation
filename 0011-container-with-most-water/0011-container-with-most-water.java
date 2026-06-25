@@ -40,5 +40,5 @@ class Solution {
         return res;*/
     }
 }
-//O(n^2)-time
+//O(n)-time
 //O(1)-space
