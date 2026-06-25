@@ -16,3 +16,7 @@ class Solution {
         return temp;
     }
 }
+
+//6.24min
+//O(n)-time
+//O(1)-space
