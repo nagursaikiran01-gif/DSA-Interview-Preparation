@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0056-merge-intervals) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0048-rotate-image) |
 | [0371-sum-of-two-integers](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0200-number-of-islands) |
 ## Design
 |  |
