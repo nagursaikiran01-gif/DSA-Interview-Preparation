@@ -25,3 +25,7 @@ class Solution {
         }
     }
 }
+
+//20min
+//O(n^2)-time
+//O(1)-space
