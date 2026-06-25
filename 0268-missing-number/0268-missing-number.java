@@ -9,3 +9,7 @@ class Solution {
         return k-total;
     }
 }
+
+//5mins
+//O(n)-time
+//O(1)-space
