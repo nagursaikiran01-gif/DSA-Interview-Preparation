@@ -5,10 +5,11 @@ class Solution {
             if(s1.contains(i)){
                 return true;
             }
-            else{
-                s1.add(i);
-            }
+            s1.add(i);
         }
         return false;
     }
 }
+//4mins
+//O(n)-time
+//O(n)-space
