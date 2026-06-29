@@ -33,3 +33,7 @@ class Solution {
         return head;
     }
 }
+
+//15min
+//O(n)-time
+//O(1)-space
