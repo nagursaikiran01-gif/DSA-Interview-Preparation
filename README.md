@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
