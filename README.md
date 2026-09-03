@@ -293,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
