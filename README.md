@@ -300,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/1148-article-views-i) |
+| [1527-patients-with-a-condition](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
