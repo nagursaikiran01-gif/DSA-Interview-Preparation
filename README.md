@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/nagursaikiran01-gif/DSA-Interview-Preparation/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
